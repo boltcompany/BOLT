@@ -1,2 +1,2 @@
 # BOLT
-A step to BUY scholl supplies
+A step to BUY school supplies
